@@ -1,0 +1,142 @@
+[
+  {
+    "tool_name": "Hammer",
+    "manufacturer": "Stanley",
+    "model": "STHT51304",
+    "barcode": "0123456789012",
+    "photo": "hammer.jpg"
+  },
+  {
+    "tool_name": "Screwdriver",
+    "manufacturer": "Craftsman",
+    "model": "CMHT65045",
+    "barcode": "1122334455667",
+    "photo": "screwdriver.jpg"
+  },
+  {
+    "tool_name": "Pliers",
+    "manufacturer": "Klein Tools",
+    "model": "D2000-28",
+    "barcode": "9876543210987",
+    "photo": "pliers.jpg"
+  },
+  {
+    "tool_name": "Level",
+    "manufacturer": "DeWalt",
+    "model": "DWHT43003",
+    "barcode": "5432109876543",
+    "photo": "level.jpg"
+  },
+  {
+    "tool_name": "Tape measure",
+    "manufacturer": "Milwaukee",
+    "model": "48-22-6616",
+    "barcode": "8765432109876",
+    "photo": "tape_measure.jpg"
+  },
+  {
+    "tool_name": "Circular saw",
+    "manufacturer": "Makita",
+    "model": "XSH03Z",
+    "barcode": "6543210987654",
+    "photo": "circular_saw.jpg"
+  },
+  {
+    "tool_name": "Drill",
+    "manufacturer": "Ryobi",
+    "model": "P208B",
+    "barcode": "3210987654321",
+    "photo": "drill.jpg"
+  },
+  {
+    "tool_name": "Chainsaw",
+    "manufacturer": "Husqvarna",
+    "model": "460 Rancher",
+    "barcode": "0987654321098",
+    "photo": "chainsaw.jpg"
+  },
+  {
+    "tool_name": "Angle grinder",
+    "manufacturer": "Bosch",
+    "model": "GWS13-50VSP",
+    "barcode": "7654321098765",
+    "photo": "angle_grinder.jpg"
+  },
+  {
+    "tool_name": "Wrench set",
+    "manufacturer": "GearWrench",
+    "model": "9412",
+    "barcode": "2345678901234",
+    "photo": "wrench_set.jpg"
+  },
+  {
+    "tool_name": "Air compressor",
+    "manufacturer": "California Air Tools",
+    "model": "10020C",
+    "barcode": "3456789012345",
+    "photo": "air_compressor.jpg"
+  },
+  {
+    "tool_name": "Miter saw",
+    "manufacturer": "Delta",
+    "model": "S26-261L",
+    "barcode": "4567890123456",
+    "photo": "miter_saw.jpg"
+  },
+  {
+    "tool_name": "Impact driver",
+    "manufacturer": "Porter-Cable",
+    "model": "PCCK647LB",
+    "barcode": "5678901234567",
+    "photo": "impact_driver.jpg"
+  },
+  {
+    "tool_name": "Jigsaw",
+    "manufacturer": "Black+Decker",
+    "model": "BDEJS600C",
+    "barcode": "6789012345678",
+    "photo": "jigsaw.jpg"
+  },
+  {
+    "tool_name": "Power drill",
+    "manufacturer": "Dewalt",
+    "model": "DCD771C2",
+    "barcode": "7890123456789",
+    "photo": "power_drill.jpg"
+  },
+  {
+    "tool_name": "Belt sander",
+    "manufacturer": "Makita",
+    "model": "9403",
+    "barcode": "8901234567890",
+    "photo": "belt_sander.jpg"
+  },
+  {
+    "tool_name": "Hacksaw",
+    "manufacturer": "Lenox",
+    "model": "12132HT50",
+    "barcode": "9012345678901",
+    "photo": "hacksaw.jpg"
+  },
+  {
+    "tool_name": "Rotary hammer",
+    "manufacturer": "Bosch",
+    "model": "RH328VC",
+    "barcode": "0123456789098",
+    "photo": "rotary_hammer.jpg"
+  },
+  {
+    "tool_name": "Hand saw",
+    "manufacturer": "Irwin Tools",
+    "model": "213103",
+    "barcode": "1234567890123",
+    "photo": "hand_saw.jpg"
+  },
+  {
+    "tool_name": "Cordless screwdriver",
+    "manufacturer": "Black+Decker",
+    "model": "BDCS20C",
+    "barcode": "2345678901234",
+    "photo": "cordless_screwdriver.jpg"
+  }
+]
